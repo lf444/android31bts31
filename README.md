@@ -8,7 +8,7 @@ Docker image with AndroidSDK-31 with buildtools 31.0.0 patched manually &amp; no
     * 31 
  * Android build tools: 
     * 31.0.0
-  * Node 
+ * Node 
     * 12.x 
 
 
